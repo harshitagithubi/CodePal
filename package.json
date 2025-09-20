@@ -1,0 +1,22 @@
+{
+  "name": "codepal",
+  "version": "1.0.0",
+  "description": "helps with dsa and core concepts",
+  "main": "DSA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "chatbot",
+    "dbms",
+    "oops",
+    "learning"
+  ],
+  "author": "Harshita",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.20.0"
+  }
+}
